@@ -5,3 +5,4 @@ Fungsi JSON pada REST API sebenarnya sama, yaitu untuk melaksanakan perintah CRU
 
 Untuk soal nomer 6, saya menggunakan framework Laravel dan sudah berbentuk .ZIP karena upload data pada GitHub dibatasi pada 100 file, sedangkan projectnya lebih dari 100 file. Database nya pun sudah di include dengan nama 'DATABASE_PASLON.sql'
 
+Screenshot/demo untuk soal nomer 6 : ![Screenshot](SOAL 6.png)
